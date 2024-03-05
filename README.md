@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm ADITYA SHARMA</h1>
 <h3 align="center">I AM A BTECH CSE STUDENT WHO IS VERY MUCH PASSIONATE ABOUT CODING AND EXPLORING NEW STUFF AND TECHNOLOGIES</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adisharma-git" alt="adisharma-git" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+
 
 <p align="left"> <a href="https://twitter.com/adityashar00" target="blank"><img src="https://img.shields.io/twitter/follow/adityashar00?logo=twitter&style=for-the-badge" alt="adityashar00" /></a> </p>
 

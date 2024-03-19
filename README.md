@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **BACKEND PROJECTS**
 
-- 💬 Ask me about **PYTHON,HTML,CSS.JS,C,C++,JAVA.**
+- 💬 Ask me about **PYTHON,HTML,CSS,JS,C,C++,JAVA.**
 
 - 📫 How to reach me **tech.adishar@gmail.com**
 
